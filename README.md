@@ -70,16 +70,16 @@
         
     2. ผ่าน Mobile Application
         1. เข้า Application Blynk เลือก Login
-        ![login.png](img/IMG_5325.PNG)
+        ![login.png](img/1.jpg)
 
         2. เลือก Custom Server ดังรูป
-        ![customServer.png](img/IMG_5326.PNG)
+        ![customServer.png](img/2.jpg)
 
         3. กรอก hostname และ port ดังรูป
-        ![hostPort.png](img/IMG_5327.PNG)
+        ![hostPort.png](img/3.jpg)
 
         4. กรอก Email และ Password ดังรูป
-        ![emailPass.png](img/IMG_5329.PNG)
+        ![emailPass.png](img/4.jpgG)
 
         5. ปรากฎหน้าต่าง Dashboard อันหมายความว่า Server สามารถใช้งานได้ ดังรูป
-        ![dashboard.png](img/IMG_5330.PNG)
+        ![dashboard.png](img/5.jpg)
